@@ -1,13 +1,15 @@
-# TbSpectrum
-Brightness temperature spectrum
+# Brightness temperature of the quiet Sun
+
+Modeling and LOFAR observation
 
 paper: [https://arxiv.org/abs/2205.00065](https://arxiv.org/abs/2205.00065)
 
 ## Brightness temperature spectrum
 
 Observation fitted model
-![figure](./TbFitModel.png)
+![figure](./TBQuietSun.png)
 
+*A table of Tb in the frequency range of 20-80MHz:*
 |Freq (MHz)|Tb (K)|
 |---|---|
 |20.00|269037.89|
